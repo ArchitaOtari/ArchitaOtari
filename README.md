@@ -4,7 +4,7 @@
 ---
 
 ### 💡 About Me
-- 🌐 Passionate about **building modern web apps** **Java Development** and exploring **AWS Cloud Solutions**  
+- 🌐 Passionate about **building modern web apps**, **Java Development** and exploring **AWS Cloud Solutions**  
 - 💻 Currently learning **AWS Solutions Architect** and **Core Java**  
 - 🚀 Working on cloud-based projects to sharpen my portfolio  
 
