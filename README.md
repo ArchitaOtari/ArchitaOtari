@@ -1,12 +1,28 @@
-<h1 align="center">Hey there , I'm Archita 🌟</h1>
-<h3 align="center">Front-End Developer | AWS Cloud Enthusiast | Java Developer</h3>
+<h1 align="center">Hey there , I'm Archita ✨ .</h1>
+<h3 align="center">AWS Enthusiast • Front-End Dev • Java Coder.</h3>
 
 ---
+About me 🌟
 
-### 💡 About Me
-- 🌐 Passionate about **building modern web apps**, **Java Development** and exploring **AWS Cloud Solutions**  
-- 💻 Currently learning **AWS Solutions Architect** and **Core Java**  
-- 🚀 Working on cloud-based projects to sharpen my portfolio  
+I'm B.Tech CSE student who turns curiosity into code and ideas into reality..</li>
+Some days I’m architecting solutions in AWS, other days I’m exploring new ways to design and code the web..
+
+💻 My Focus
+
+<li>Turning AWS from “just infrastructure” into a playground for my experiments..</li>
+<li>Designing apps where performance matters as much as the UI.</li>
+<li>Turning new skills into actual projects instead of letting them collect dust.
+
+
+
+🔍 Why I Build
+
+For me, coding isn’t just about solving problems — it’s about crafting experiences.<br>
+Whether it’s a small script or a full-stack app, I love the “aha!” moment when it all clicks together.
+
+
+
+📌 If you’re here, you’re either curious about my work or lost in GitHub — either way, welcome!
 
 ---
 
@@ -38,19 +54,11 @@
 ### 🌟 Currently Working On
 
 **📂 Cloud Storage App (Google Drive-like)**  
-A secure and scalable cloud storage application using AWS Free Tier services:  
-- **Amazon S3** – File storage  
-- **Amazon Cognito** – Authentication  
-- **Amazon API Gateway** + **AWS Lambda** – Serverless backend  
-- **Amazon DynamoDB** – Metadata management  
-
 🎯 **Goal:** Build a polished cloud storage solution with:  
 - File upload/download  
 - Folder management  
 - User authentication  
 
-🎨 **Frontend:** React + TailwindCSS  
-⚡ **Backend:** Serverless AWS stack  
 
 ---
 
